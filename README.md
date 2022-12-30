@@ -1,7 +1,7 @@
 # Disaster Response Pipeline Project
 ## Project Description
 Analyzed data set containing real messages that were sent during the disaster events from [Appen](https://appen.com/) (formally Figure 8). Created a machine learning pipeline to categorize these events.
-The project includes a web app where an emergency message can be inputted and shows the classification results in several categories. The web ppp also display visualizations of the data.
+The project includes a web app where an emergency message can be inputted and shows the classification results in several categories. The web app also display visualizations of the data.
 ![Screenshot of web application](screen_shot.png)
 
 ## Installation
